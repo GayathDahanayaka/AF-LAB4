@@ -1,0 +1,19 @@
+{
+  "name": "af-lab4",
+  "version": "1.0.0",
+  "description": "Lab 03 NodeJS Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GayathDahanayaka/AF-LAB4.git"
+  },
+  "author": "Gayath Dahanayaka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GayathDahanayaka/AF-LAB4/issues"
+  },
+  "homepage": "https://github.com/GayathDahanayaka/AF-LAB4#readme"
+}
